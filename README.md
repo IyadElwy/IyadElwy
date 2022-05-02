@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IyadElwy](https://github.com/IyadElwy)
 
+- 📊 Data Science on [https://www.kaggle.com/iyadelwy](https://www.kaggle.com/iyadelwy)
+
 - 📝 I regularly write articles on [https://thnewkidontheblog.blogspot.com/](https://thnewkidontheblog.blogspot.com/)
 
 - 📫 How to reach me **elwyiyad@gmail.com**
