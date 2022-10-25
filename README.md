@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **elwyiyad@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIn]([https://iyadelwy.github.io/Resume/](https://www.linkedin.com/in/iyad-elwy-8919461b5/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/iyad-elwy-8919461b5/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
