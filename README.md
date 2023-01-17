@@ -11,10 +11,3 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/iyad-elwy-8919461b5/)
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iyadelwy&theme=tokyonight&repo=github-readme-stats" />
-</a>
-
-
