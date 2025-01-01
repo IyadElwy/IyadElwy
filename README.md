@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iyad Elwy</h1>
-<h3 align="center">A Computer Science student enthusiastic about Software Development and Data Science</h3>
+<h3 align="center">Recent graduate, eager to gain real-world experience and learn from all sorts of experiences. Enjoy working on projects at the intersection of data engineering, DevOps, and infrastructure. Interests include container orchestration, workflow automation, and building efficient, scalable systems. Passionate about integrating technology into creative and impactful solutions.</h3>
 
 - 🌱 I’m currently learning **Data Science and Software Development** by working on personal Projects as well as contributing to **Open Source**
 
